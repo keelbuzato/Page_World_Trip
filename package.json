@@ -9,12 +9,25 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/icons": "^2.0.6",
+    "@chakra-ui/react": "^2.2.6",
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "framer-motion": "^7.0.0",
     "next": "12.2.3",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@types/node": "^18.6.2",
+    "@types/react": "^18.0.15",
     "eslint": "8.20.0",
-    "eslint-config-next": "12.2.3"
-  }
+    "eslint-config-next": "12.2.3",
+    "i": "^0.3.7",
+    "swiper": "^8.3.2",
+    "typescript": "^4.7.4"
+  },
+  "tags": [
+    "swiper"
+  ]
 }
